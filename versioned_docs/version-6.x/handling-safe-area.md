@@ -31,7 +31,7 @@ The `react-native-safe-area-context` library also exports a `SafeAreaView` compo
 
 The rest of this guide gives more information on how to support safe areas in React Navigation.
 
-## Hidden/Custom Header or Tab Bar
+## Hidden/Custom Header or Tab Bars
 
 ![Default React Navigation Behavior](/assets/iphoneX/01-iphonex-default.png)
 
